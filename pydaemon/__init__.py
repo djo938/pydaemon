@@ -1,3 +1,3 @@
 #!/usr/bin/python
 
-from Daemon import Daemon
+from Daemon import Daemon, getLogNextId
